@@ -1,14 +1,3 @@
-// ---------------------------------------------------------------------------------
-// Copyright (c) 2017 HDLExpress.com, Canby, OR, USA
-// All rights reserved
-// ---------------------------------------------------------------------------------
-// Project       :  
-// Editor        :  Notepad++ on Windows 7
-// FPGA          :  
-// File          :  alu_tb.sv - Testbench to check ALU Functional Unit
-// Description   :  new KPU superscalar OoOE architect tailored to the RISC-V RV32IM ISA
-// Designers     :  Kirk Weedman - kirk@hdlexpress.com
-// ---------------------------------------------------------------------------------
 `timescale 1ns/100ps
 
 module alu_tb ();
