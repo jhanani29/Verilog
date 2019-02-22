@@ -1,4 +1,2 @@
-# Verilog
-Hi, I have planned to do few projects in Verilog. I have decided to do verilog project on communication protocol. 
-This is my plan for a month. 
-1 st week I will do UART.
+# System Verilog Project
+Summer 2018 : I wrote a testbench for CPU design. The functionality of the CPU design is verified using the System Verilog testbench. System Verilog Assertion (SVA) is also used to check the functional coverage of the design
